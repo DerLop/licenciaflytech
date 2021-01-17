@@ -1,5 +1,12 @@
-[{
+[
+	{
 	"idplaca": "PEZBV00WB382PG",
 	"cliente": "Derlis López",
 	"pago": "true"
-}]
+},
+	{
+	"idplaca": "PEZBV00WB3OOI",
+	"cliente": "Marcela Godoy",
+	"pago": "false"
+}
+]
