@@ -10,5 +10,12 @@
 	"cliente": "Marcela Godoy",
 	"atrasadas": "1",
 	"pago": "false"
+},
+	{
+	"idplaca": "NBGDE1100770629AFD7600",
+	"cliente": "Edgar Lopez",
+	"atrasadas": "0",
+	"pago": "true"
 }
+	
 ]
