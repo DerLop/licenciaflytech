@@ -3,8 +3,8 @@
 	"idplaca": "PEZBV00WB382PG",
 	"mac" : "54-8C-A0-B6-D8-83",
 	"cliente": "Derlis López",
-	"atrasadas": "0",
-	"pago": "true"
+	"atrasadas": "1",
+	"pago": "false"
 },
 	{
 	"idplaca": "PEZBV00WB3OOI",
